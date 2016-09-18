@@ -86,3 +86,7 @@ the polynomial x^5 - 1
     3/23 293/34234
     234/2369234 2348234/324
     324 234324/23
+
+### Feng's Configuration
+
+     ./configure --disable-ui --disable-tcmalloc --prefix=/usr/local/
